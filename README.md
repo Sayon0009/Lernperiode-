@@ -1,7 +1,7 @@
 # Lern-Periode 2
 Name: Sayon Kunz
 
-12.08.2024 bis 29.09.2024
+05.09.2025 bis 12.09.2025
 
 ## Grob-Planung
 Module arbeiten 
@@ -33,8 +33,7 @@ Heute habe ich
 
 Heute habe ich in Visual Studio 22 Mission 7 in Modul 319 gemacht. Ich habe in Modul 431 auch 1 missiom gemacht. Danach brauchte ich eine Abwechslung und habe eine einführing in Linux mint geschaut welches ich sehr Intersant fande und auch schon die ersten Test gemacht. Das einrichten hat mich einen moment gekosttet war aber spannend
 
-## Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+## Planung 12.09.2025 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Mission 9 Modul 319
 - [ ] Linux skill erweitern
